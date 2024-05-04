@@ -1,11 +1,11 @@
-# xeneta_rate
+# Xeneta_rate
 This project is developed to expose an API which is able to pass input parameters and fetch the price details from a database
 
 # Prerequisites:
 
-Install python
-Install MYSQL
-Install flask, mysql-connector-python(pip install in cmd)
+1. Install python
+2. Install MYSQL
+3. Install python libraries - flask, mysql-connector-python (pip install in cmd)
 
 # Instructions to setup and run:
 1. Clone the Github repository on your local machine.
