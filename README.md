@@ -1,21 +1,21 @@
-# Xeneta rate
+# Xeneta Rate Task
 This project is developed to expose an API which is able to pass input parameters and fetch the price details from a database.
 API is able to take in atmost 4 inputs and then queries the database with the given parameters and displays the result accordingly.
 It displays meaningful comments in case of errors in the parameters passed.
 
-# Prerequisites:
+## Prerequisites:
 
 1. Install python
 2. Install MYSQL
 3. Install python libraries - flask, mysql-connector-python (pip install in cmd)
 
-# Instructions to setup and run:
+## Instructions to setup and run:
 1. Clone the Github repository on your local machine.
-2. Update config.ini file with the connection details as per your system/user configurations
-3. Run main.py to test the code
+2. Update config.ini file with the connection details as per your system/user configurations.
+3. Run main.py file to test the code.
 
 
-# Sample Test API's:
+## Sample Test API's:
 
 1. http://127.0.0.1:5000/rates
 2. http://127.0.0.1:5000/rates?date_from=2016-01-01
