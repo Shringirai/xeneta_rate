@@ -1,5 +1,7 @@
-# Xeneta_rate
-This project is developed to expose an API which is able to pass input parameters and fetch the price details from a database
+# Xeneta rate
+This project is developed to expose an API which is able to pass input parameters and fetch the price details from a database.
+API is able to take in atmost 4 inputs and then queries the database with the given parameters and displays the result accordingly.
+It displays meaningful comments in case of errors in the parameters passed.
 
 # Prerequisites:
 
