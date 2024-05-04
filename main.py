@@ -8,7 +8,7 @@ from datetime import datetime
 
 def setup_database():
     # setting up database based on rates.sql
-    queriesPath = "rate.txt"
+    queriesPath = "rate.sql"
     myCursor.execute("create database xeneta_rates")
     myCursor.execute("use xeneta_rates")
     print("setting up the database, this may take few minutes")
