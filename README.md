@@ -37,4 +37,4 @@ It displays meaningful comments in case of errors in the parameters passed.
 1. Docker setup on my machine failed due to windows compatibility issue, hence I had to explore other options for the task.
 2. As a next step, I tried using Apache Spark framework (PySpark) but I noticed that after the creation of the tables we were also required to set some constraints (foreign key, primary key, etc.) which wasn't supported in this framework without the integration of Apache Hive, but this was also not compatible with my machine configurations.
 
-Hence to tackle the above setup issues I ended up using MYSQL.
+   Hence to tackle the above setup issues I ended up using MYSQL.
