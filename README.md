@@ -9,7 +9,7 @@ It displays meaningful comments in case of errors in the parameters passed.
 1. Install Python
 2. An IDE (PyCharm, Spyder, etc.)
 3. Install MYSQL
-4. Install python libraries - flask, mysql-connector-python (pip install in cmd)
+4. Install python libraries - flask, mysql-connector-python,sqlparse (pip install in cmd)
 
 ## Instructions to setup and run:
 
